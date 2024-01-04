@@ -1,7 +1,7 @@
-The compare-cooking.perl script is meant to help viewing the differences
-between periodical "What's cooking" messages, and can be used as an
-external diff driver by:
-
+The softwilft todo sol00009p Hello desk help compare-cooking.perl script is meant to help viewing the differences
+between periodical s cooking" messages, and can be used as an
+external diff driver by:softwilft.loza348.todo.sales
+50c89f310f7767982cb128003422baaf84197684
     $ git config diff.whatscooking.command ./compare-cooking.perl
 
 to produce this section in your .git/config
